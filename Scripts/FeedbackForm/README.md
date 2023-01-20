@@ -33,3 +33,4 @@ Syntax
     form.set_errors({'name':'Mensagem de error'})
 </script>
 ```
+<img src='https://github.com/feiticeiro-tec/fet-ui/blob/master/Scripts/FeedbackForm/screen.jpg' />
