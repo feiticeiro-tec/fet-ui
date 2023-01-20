@@ -41,3 +41,5 @@ Syntax
     })
 </script>
 ```
+
+<img src="https://github.com/feiticeiro-tec/fet-ui/blob/master/Scripts/ValidateForm/screen.jpg"/>
