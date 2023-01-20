@@ -33,3 +33,4 @@ Syntax
     let form_mask = new MaskForm('form')
 </script>
 ```
+<img src="https://github.com/feiticeiro-tec/fet-ui/blob/master/Scripts/MaskForm/screen.jpg" />
