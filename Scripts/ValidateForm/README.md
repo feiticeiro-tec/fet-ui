@@ -6,6 +6,10 @@ Requisitos
 <!-- INPUT MASK -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.7/jquery.inputmask.min.js" integrity="sha512-jTgBq4+dMYh73dquskmUFEgMY5mptcbqSw2rmhOZZSJjZbD2wMt0H5nhqWtleVkyBEjmzid5nyERPSNBafG4GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 ```
+Import
+```html
+<script src="https://cdn.statically.io/gh/feiticeiro-tec/fet-ui/0.1-homologa%25C3%25A7%25C3%25A3o/Scripts/ValidateForm/validate_form.js" integrity="sha384-Yfo/oJr7c6hUjYzU82E97o8laL/KqCzJU5Z7ML354JWPl+s0Uy54rdUH7FYkKcfi" crossorigin="anonymous"></script>
+```
 
 Syntax
 ```html
