@@ -7,6 +7,11 @@ Requisitos
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.7/jquery.inputmask.min.js" integrity="sha512-jTgBq4+dMYh73dquskmUFEgMY5mptcbqSw2rmhOZZSJjZbD2wMt0H5nhqWtleVkyBEjmzid5nyERPSNBafG4GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 ```
 
+Import
+```html
+<script src="https://cdn.statically.io/gh/feiticeiro-tec/fet-ui/0.1-homologa%25C3%25A7%25C3%25A3o/Scripts/MaskForm/mask_form.js" integrity="sha384-oE+DG9DuRJ48U/SvAq+jI59HVDu8xrtxXnh0G+SrF4TCypKWuyYpPrU2a9McqgZT" crossorigin="anonymous"></script>
+```
+
 Syntax
 ```html
 <form action="" method="get">
